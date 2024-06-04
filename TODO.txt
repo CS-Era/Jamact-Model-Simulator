@@ -1,0 +1,14 @@
+----------------------------------------------------------------------------------------------
+COSE DA TOGLIERE
+
+1- Semafori
+2- Si guida a sinistra
+
+
+COSE DA AGGIUNGERE
+1- Mettere le precedenze
+2- Disegnare le linee
+3- Far fermare i veicoli alle linee
+4- Disegnare l'area gialla
+5- Rallentare i veicoli
+6- Fare i calcoli dinamici
